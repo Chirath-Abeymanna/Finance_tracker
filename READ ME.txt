@@ -2,7 +2,7 @@ Introducing Personal Finance Tracker !!!!
 
 In here you can keep a track on your financial status
 
-NOTE: This document is an initial document for the users to get an initial idea and helps the users to setup the application properly. You can found an indetail descriptions about design stuctures in the "Design Plan.pdf"
+This is my first tkinter projec. Enjoy !!! 
 
 HOW TO OPEN:
 
