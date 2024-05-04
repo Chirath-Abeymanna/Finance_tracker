@@ -16,6 +16,8 @@ transaction = {}
 #file handling functions
 class FileHandling():
 
+    print("Hello")
+
     #Creating a function to load the transactions from the Json file
     @staticmethod
     def load_transaction():
