@@ -1,0 +1,32 @@
+Introducing Personal Finance Tracker !!!!
+
+In here you can keep a track on your financial status
+
+NOTE: This document is an initial document for the users to get an initial idea and helps the users to setup the application properly. You can found an indetail descriptions about design stuctures in the "Design Plan.pdf"
+
+HOW TO OPEN:
+
+	Method I: (NOTE: To use this method python must be installed in you're system)
+
+		 - Open the "main.py" file by right clicking and going to open with --> python
+
+	Method II: (NOTE: This method will only work on computers with windows Operating systems)
+		 
+		- Open the Personal_Finance_Tracker.exe by double clicking on the file
+
+HOW TO USE:
+
+	- You can add a new transaction by clicking on the "Add a new transaction " button.
+
+	- You you're transactions are shown using a table 
+	
+	- You can update a desired transaction by by selecting the transaction and clicking the "update the selected transaction" button
+	
+	- You can delete a individual or multiple transactions by selecting the desired transactions and clicking on the "delete selected transaction" button
+	
+	- You can delete all the transactions by clicking on the "Delete all the transacion" button
+	
+	- You can find a summary of total incomes, expenses and you're net balance in the table at the bottom of the dashboard
+
+
+NOTE: **JSON File that's been used to store the data is inside the "data" folder, The application design and the test plan documents are in the Docs folder**
