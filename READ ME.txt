@@ -2,7 +2,7 @@ Introducing Personal Finance Tracker !!!!
 
 In here you can keep a track on your financial status
 
-This is my first tkinter projec. Enjoy !!! 
+This is my first tkinter project. Enjoy !!! 
 
 HOW TO OPEN:
 
